@@ -5,9 +5,9 @@
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Binance](https://github.com/binance-exchange/binance-official-api-docs) | Exchange based in China | `apiKey` | Yes | Unknown |
-| [Bitfinex](https://docs.bitfinex.com/docs/introduction) | Exchange based in Hongkong | `apiKey` | Yes | Unknown |
+| [Bitfinex](https://docs.bitfinex.com/docs/introduction) | Exchange based in Hong Kong | `apiKey` | Yes | Unknown |
 | [Bitmex](https://www.bitmex.com/app/apiOverview) | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong | `apiKey` | Yes | Unknown |
-| [Bittrex](https://bittrex.com/Home/Api) | Next Generation Crypto Trading Platform | `apiKey` | Yes | Unknown |
+| [Bittrex](https://international.bittrex.com/Home/Api) | Exchange based in the USA | `apiKey` | Yes | Unknown |
 
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
